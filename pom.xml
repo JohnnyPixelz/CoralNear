@@ -64,7 +64,7 @@
                     <createDependencyReducedPom>false</createDependencyReducedPom>
                     <relocations>
                         <relocation>
-                            <pattern>fr.</pattern>
+                            <pattern>fr.minuskube.inv</pattern>
                             <shadedPattern>io.github.johnnypixelz.coralnear.shade.smartinvs</shadedPattern>
                         </relocation>
                     </relocations>

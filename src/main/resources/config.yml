@@ -1,0 +1,9 @@
+menu:
+  title: "&c&lCoral &8&lNear"
+  head: "&c&l%name% &7&l- &f&l%distance%m"
+
+# How many ticks to wait before each GUI update (below 5 may lag)
+update-delay: 10
+
+messages:
+  console: "&8[&4!&8] &7This command is player-exclusive."

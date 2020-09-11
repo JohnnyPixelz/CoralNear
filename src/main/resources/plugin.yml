@@ -1,0 +1,9 @@
+name: CoralNear
+main: io.github.johnnypixelz.coralnear.CoralNear
+version: 1.0
+api-version: 1.13
+author: JohnnyPixelz
+commands:
+  near:
+    description: Displays nearby players
+    usage: /near
